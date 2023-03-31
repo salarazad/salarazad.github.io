@@ -1,0 +1,19 @@
+{
+	"ads" : [
+	      {        
+	              "id": "0",
+		      "ad_link": "https://raw.githubusercontent.com/salarazad/adsJson-/main/ad_drink_water1.png",
+		      "social_link": "https://www.facebook.com/Jaamwater/photos/a.2453589338032944/5198426590215858/"
+	      },
+	      {
+		      "id": "1",
+	              "ad_link": "https://raw.githubusercontent.com/salarazad/adsJson-/main/ad_drink_water2.png",
+		      "social_link": "https://www.instagram.com/jaam.water/"
+	      },
+	      {
+		      "id": "2",
+		      "ad_link": "https://raw.githubusercontent.com/salarazad/adsJson-/main/ad_drink_water3.png",
+		      "social_link": "https://www.youtube.com/watch?v=JBGFVTGtGfI"
+	      }	
+	]
+}
